@@ -31,7 +31,7 @@ OperaFS is a Linux implementation of the Opera file system, which is the
 file system used on 3DO CD-ROM's.
 
 %description -l pl.UTF-8
-System plikÛw Opera jest wykorzystywany do zapisu danych na p≥ytach CD na
+System plik√≥w Opera jest wykorzystywany do zapisu danych na p≈Çytach CD na
 platformie 3DO.
 
 %prep
